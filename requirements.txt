@@ -1,0 +1,4 @@
+streamlit
+markitdown[pdf,docx,pptx]
+google-generativeai
+python-dotenv
